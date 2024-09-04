@@ -81,7 +81,7 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## Contact
 
-For questions or concerns, please contact [Project Lead's Name] at [email@example.com].
+For questions or concerns, please contact Alvee Mir at alveeahnaf@hotmail.com.
 
 ## License
 
