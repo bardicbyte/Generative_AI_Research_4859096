@@ -1,4 +1,5 @@
-# Generative AI Tools Research Project (this md was AI generated)
+# Generative AI Tools Research Project 
+(this md was AI generated)
 
 ## Project Overview
 This repository contains the research materials and data for the study "Using Generative AI Tools - Boon or Bane". Our team is investigating the impacts, benefits, and potential drawbacks of generative AI tools across various domains.
